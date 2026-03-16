@@ -102,7 +102,6 @@ git remote -v
 ---
 
 ### Flux săptămânal
-### Flux săptămânal
 
 **1. Preiei branch-ul nou de pe `upstream`:**
 
